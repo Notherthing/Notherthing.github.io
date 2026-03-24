@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yuchen Huang"
 title_separator          : "-"
 name                     : &name "Yuchen Huang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yuchen Huang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mypicture.jpg"
-  name             : "Yuchen Huang"
+  name             : "Yuchen Huang\n黄宇辰"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student at the School of Data Science and Engineering, East China Normal University."
   location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  employer         : "ECNU"
   uri              : # URL
   email            : "ychuang@stu.ecnu.edu.cn" 
 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=t1eEO-MAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0008-3787-5392"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # URL
+  github           : "https://github.com/Notherthing"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
