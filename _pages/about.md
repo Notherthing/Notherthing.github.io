@@ -9,16 +9,20 @@ redirect_from:
 ## Short Biography
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
-Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering (DaSE), East China Normal University (ECNU), under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022. He would also like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
+Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022. He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
 
 
 ## Research Interests {#research-interests}
 
-His research interests include the design and implementation of high-performance, cost-effective, and practical (i.e., deployable and scalable) systems from perspectives of storage (e.g., *NVMe SSD, CXL*), computing (e.g., *multi-core CPU, commercial GPU*), and communication (e.g., *RDMA*). Recently, he is focusing on building vector data systems and exploring other large model infrastructure (e.g., *AI-agent memory and inference*) through hardware-software co-design. He believes that the system design should not only account for current workload characteristics and device performance, but also anticipate the evolving trends of software applications and hardware architectures. While such a goal may be difficult to achieve perfectly, his research roadmap is guided by the pursuit of getting as close to it as possible.
+His research interests include the design and implementation of high-performance, cost-effective, and practical (i.e., commercially deployable and scalable) systems from      storage (e.g., *NVMe SSD, CXL*), computing (e.g., *multi-core CPU, commercial GPU*), and communication (e.g., *RDMA*). Recently, he is focusing on building vector data systems and exploring other large model infrastructure (e.g., *AI-agent memory and inference*) through hardware-software co-design. He believes that the system design should not only account for current workload characteristics and device performance, but also anticipate the evolving trends of software applications and hardware architectures. While such a goal may be difficult to achieve perfectly, his research roadmap is guided by the pursuit of getting as close to it as possible.
 
 
 ## Publications {#publications}
 *** indicates corresponding author. ^ indicates equal contribution.**
+- **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*]() *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
+
+- **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*]() *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
+
 - **<u>Yuchen Huang^</u>**, Baiteng Ma^, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, and Chuliang Weng\*. [*CCD-Level and Load-Aware Thread Orchestration for In-Memory Vector ANNS on Multi-Core CPUs.*]() *<u>The 42th IEEE International Conference on Data Engineering</u> (**ICDE 2026**)*, Full Paper (**CCF-A**).
 
 - **<u>Yuchen Huang</u>**, Xiaopeng Fan, Song Yan, and Chuliang Weng\*. [*Neos: A NVMe-GPUs Direct Vector Service Buffer in User Space.*](https://ieeexplore.ieee.org/abstract/document/10598129) *<u>The 40th IEEE International Conference on Data Engineering</u> (**ICDE 2024**)*, Full Paper (**CCF-A**).
@@ -52,7 +56,7 @@ Designing and prototyping state-of-the-art ultra-large-scale vector management s
 **2025.04-2025.06**  
 **ByteDance**  
 *<u>Volcano Engine, Engineering Intern</u>*  
-Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direct RDMA, inference system, and reinforcement learning systems).
+Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direct RDMA, inference system, and reinforcement learning system).
 
 **2024.05-2025.03**  
 **Ant Research**  
@@ -70,4 +74,4 @@ Developing high-frequency trading systems and optimizing system performance (e.g
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 03/21/2026]
+### [Last Update: 03/31/2026]
