@@ -9,7 +9,7 @@ redirect_from:
 ## Short Biography
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
-Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022. He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
+Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). He is fortunately under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate(d) with and learn(ed) from [Prof. Erci Xu](https://giorgioercixu.github.io/) and [Dr. Mingzhe Zhang](https://mingzhe-zhang.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022. He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
 
 
 ## Research Interests {#research-interests}
@@ -48,27 +48,27 @@ East China Normal University, School of Computer Science and Technology.
 
 ## Industry Experience {#industry-experience}
 
-**2025.07-Present**  
+**2025 - Present**  
 **RedNote** (a.k.a. Xiaohongshu Inc)  
 *<u>Engine Architecture, ACE Intern (REDstar Project)</u>*  
 Designing and prototyping state-of-the-art ultra-large-scale vector management systems and driving the large-scale production deployment.
 
-**2025.04-2025.06**  
+**2025**  
 **ByteDance**  
 *<u>Volcano Engine, Engineering Intern</u>*  
 Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direct RDMA, inference system, and reinforcement learning system).
 
-**2024.05-2025.03**  
+**2024 - 2025**  
 **Ant Research**  
 *<u>Computing System Lab, Research Intern</u>*  
 Researching homomorphic encryption applications in vector databases to achieve secure and private vector data management.
 
-**2022.04-2024.05**  
+**2022 - 2024**  
 **Shanghai Hongqiang Taihe Fund Management**  
 *<u>Engineering Department, Engineering Intern</u>*  
-Developing high-frequency trading systems and optimizing system performance (e.g., response latency and computational efficiency).
+Developing high-frequency trading systems for the stock market and optimizing system performance (e.g., response latency and computational efficiency).
 
-**2021.06-2021.10**  
+**2021**  
 **Shanghai Huawei Technologies Co., Ltd.**  
 *<u>ICT Product Line, Research Intern</u>*  
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
