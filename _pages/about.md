@@ -9,7 +9,8 @@ redirect_from:
 ## Short Biography
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
-Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). He is fortunately under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate(d) with and learn(ed) from [Prof. Erci Xu](https://giorgioercixu.github.io/) and [Dr. Mingzhe Zhang](https://mingzhe-zhang.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022. He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
+Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU).Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
+He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
 
 
 ## Research Interests {#research-interests}
@@ -29,7 +30,7 @@ His research interests include the design and implementation of high-performance
 
 - Xiaopeng Fan, Song Yan, **<u>Yuchen Huang</u>**, and Chuliang Weng\*. [*TEngine: A Native Distributed Table Storage Engine.*](https://ieeexplore.ieee.org/abstract/document/10597698) *<u>The 40th IEEE International Conference on Data Engineering</u> (**ICDE 2024**)*, Full Paper (**CCF-A**).
 
-- Xiaopeng Fan, Song Yan, **<u>Yuchen Huang</u>**, and Chuliang Weng\*. [*LUNAR: A Native Table Engine for Embedded Devices.*](https://dl.acm.org/doi/abs/10.1145/3589610.3596276) *<u>The 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems</u> (**LCTES 2023, Co-located with PLDI2023**)*, Full Paper (**CCF-B**).
+- Xiaopeng Fan, Song Yan, **<u>Yuchen Huang</u>**, and Chuliang Weng\*. [*LUNAR: A Native Table Engine for Embedded Devices.*](https://dl.acm.org/doi/abs/10.1145/3589610.3596276) *<u>The 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems</u> (**LCTES 2023**)*, Full Paper (**CCF-B**).
 
 
 ## Education Background {#education-background}
@@ -49,8 +50,8 @@ East China Normal University, School of Computer Science and Technology.
 ## Industry Experience {#industry-experience}
 
 **2025 - Present**  
-**RedNote** (a.k.a. Xiaohongshu Inc)  
-*<u>Engine Architecture, ACE Intern (REDstar Project)</u>*  
+**Xiaohongshu (RedNote)**
+*<u>Engine Architecture, ACE Intern (REDstar)</u>*  
 Designing and prototyping state-of-the-art ultra-large-scale vector management systems and driving the large-scale production deployment.
 
 **2025**  
@@ -64,14 +65,14 @@ Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direc
 Researching homomorphic encryption applications in vector databases to achieve secure and private vector data management.
 
 **2022 - 2024**  
-**Shanghai Hongqiang Taihe Fund Management**  
-*<u>Engineering Department, Engineering Intern</u>*  
+**Hong-Qiang-Tai-He Fund Management**  
+*<u>Quant Development, Engineering Intern</u>*  
 Developing high-frequency trading systems for the stock market and optimizing system performance (e.g., response latency and computational efficiency).
 
 **2021**  
-**Shanghai Huawei Technologies Co., Ltd.**  
+**Huawei Technologies Co., Ltd.**  
 *<u>ICT Product Line, Research Intern</u>*  
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 03/31/2026]
+### [Last Update: 04/12/2026]
