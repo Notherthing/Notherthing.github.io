@@ -1,16 +1,8 @@
-# Yuchen Huang
+### Biography
 
-**Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
+Yuchen Huang is a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/). He received his bachelor's degree from the School of Computer Science and Technology, East China Normal University, in 2022. His research interests focus on vector search systems.
 
-## Biography
-
-Yuchen Huang is a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/). He received his bachelor's degree from the School of Computer Science and Technology, East China Normal University, in 2022.
-
-## Research Interests
-
-His research interests include hardware-software co-design for systems, with a recent focus on vector systems.
-
-## Publications
+### Publications
 
 \* indicates corresponding author.   ^ indicates equal contribution.
 
@@ -38,9 +30,9 @@ His research interests include hardware-software co-design for systems, with a r
   ***LUNAR: A Native Table Engine for Embedded Devices.***  
   *The 24th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems* (**LCTES 2023**, co-located with **PLDI 2023**), Full Paper (**CCF-B**).
 
-## Education
+### Education
 
-**2025–Present (Expected: Dec. 2026)**  *Ph.D. Candidate*  
+**2025–Present**  *Ph.D. Candidate*  
 East China Normal University, School of Data Science and Engineering
 
 **2022–2025**  *Master*  
@@ -48,3 +40,13 @@ East China Normal University, School of Data Science and Engineering
 
 **2018–2022**  *Bachelor*  
 East China Normal University, School of Computer Science and Technology
+
+### Recent Internship
+
+**2025.07 - Present**  
+**Xiaohongshu (RedNote)**
+*Engine Architecture, Engineering Intern*  
+
+**2025.04 - 2025.06**  
+**ByteDance**  
+*Volcano Engine, Engineering Intern*  

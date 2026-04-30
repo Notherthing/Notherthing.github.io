@@ -9,20 +9,20 @@ redirect_from:
 ## Short Biography
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
-Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU).Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
+Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
 He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
 
 
 ## Research Interests {#research-interests}
 
-His research interests include the design and implementation of high-performance, cost-effective, and practical (i.e., commercially deployable and scalable) systems from      storage (e.g., *NVMe SSD, CXL*), computing (e.g., *multi-core CPU, commercial GPU*), and communication (e.g., *RDMA*). Recently, he is focusing on building vector data systems and exploring other large model infrastructure (e.g., *AI-agent memory and inference*) through hardware-software co-design. He believes that the system design should not only account for current workload characteristics and device performance, but also anticipate the evolving trends of software applications and hardware architectures. While such a goal may be difficult to achieve perfectly, his research roadmap is guided by the pursuit of getting as close to it as possible.
+His research interests include the design and implementation of high-performance, cost-effective, and practical (i.e., commercially deployable and scalable) systems from storage (e.g., *NVMe SSD, CXL*), computing (e.g., *multi-core CPU, commercial GPU*), and communication (e.g., *RDMA*). Recently, he is focusing on building vector data systems and exploring other large model infrastructure (e.g., *AI-agent memory and inference*) through hardware-software co-design. He believes that the system design should not only account for current workload characteristics and device performance, but also anticipate the evolving trends of software applications and hardware architectures. While such a goal may be difficult to achieve perfectly, his research roadmap is guided by the pursuit of getting as close to it as possible.
 
 
 ## Publications {#publications}
 *** indicates corresponding author. ^ indicates equal contribution.**
 - **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*]() *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
 
-- **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*]() *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
+- **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*](https://www.usenix.org/conference/osdi26/presentation/huang-yuchen) *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
 
 - **<u>Yuchen Huang^</u>**, Baiteng Ma^, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, and Chuliang Weng\*. [*CCD-Level and Load-Aware Thread Orchestration for In-Memory Vector ANNS on Multi-Core CPUs.*]() *<u>The 42th IEEE International Conference on Data Engineering</u> (**ICDE 2026**)*, Full Paper (**CCF-A**).
 
@@ -52,7 +52,7 @@ East China Normal University, School of Computer Science and Technology.
 **2025 - Present**  
 **Xiaohongshu (RedNote)**
 *<u>Engine Architecture, ACE Intern (REDstar)</u>*  
-Designing and prototyping state-of-the-art ultra-large-scale vector management systems and driving the large-scale production deployment.
+Designing and prototyping state-of-the-art ultra-large-scale vector management systems and driving their large-scale production deployment.
 
 **2025**  
 **ByteDance**  
@@ -65,7 +65,7 @@ Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direc
 Researching homomorphic encryption applications in vector databases to achieve secure and private vector data management.
 
 **2022 - 2024**  
-**Hong-Qiang-Tai-He Fund Management**  
+**Redwall TaiHe Fund Management**  
 *<u>Quant Development, Engineering Intern</u>*  
 Developing high-frequency trading systems for the stock market and optimizing system performance (e.g., response latency and computational efficiency).
 
@@ -75,4 +75,4 @@ Developing high-frequency trading systems for the stock market and optimizing sy
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 04/12/2026]
+### [Last Update: 04/30/2026]
