@@ -24,7 +24,7 @@ His research interests include the design and implementation of high-performance
 
 - **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*](https://www.usenix.org/conference/osdi26/presentation/huang-yuchen) *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
 
-- **<u>Yuchen Huang^</u>**, Baiteng Ma^, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, and Chuliang Weng\*. [*CCD-Level and Load-Aware Thread Orchestration for In-Memory Vector ANNS on Multi-Core CPUs.*]() *<u>The 42th IEEE International Conference on Data Engineering</u> (**ICDE 2026**)*, Full Paper (**CCF-A**).
+- **<u>Yuchen Huang^</u>**, Baiteng Ma^, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, and Chuliang Weng\*. [*CCD-Level and Load-Aware Thread Orchestration for In-Memory Vector ANNS on Multi-Core CPUs.*](https://arxiv.org/abs/2605.10090) *<u>The 42th IEEE International Conference on Data Engineering</u> (**ICDE 2026**)*, Full Paper (**CCF-A**).
 
 - **<u>Yuchen Huang</u>**, Xiaopeng Fan, Song Yan, and Chuliang Weng\*. [*Neos: A NVMe-GPUs Direct Vector Service Buffer in User Space.*](https://ieeexplore.ieee.org/abstract/document/10598129) *<u>The 40th IEEE International Conference on Data Engineering</u> (**ICDE 2024**)*, Full Paper (**CCF-A**).
 
@@ -35,7 +35,7 @@ His research interests include the design and implementation of high-performance
 
 ## Education Background {#education-background}
 
-**2025-Present (expected 12/2026)**  
+**2025-Present**  
 *<u>Ph.D. Candidate</u>*  
 East China Normal University, School of Data Science and Engineering.
 
@@ -50,7 +50,7 @@ East China Normal University, School of Computer Science and Technology.
 ## Industry Experience {#industry-experience}
 
 **2025 - Present**  
-**Xiaohongshu (RedNote)**
+**Xiaohongshu Inc**  
 *<u>Engine Architecture, ACE Intern (REDstar)</u>*  
 Designing and prototyping state-of-the-art ultra-large-scale vector management systems and driving their large-scale production deployment.
 
@@ -75,4 +75,4 @@ Developing high-frequency trading systems for the stock market and optimizing sy
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 04/30/2026]
+### [Last Update: 05/23/2026]
