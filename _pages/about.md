@@ -6,7 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Short Biography
+<div class="about-audio-heading">
+  <h2 id="short-biography" class="about-audio-title">Short Biography</h2>
+  <button
+    type="button"
+    class="about-audio-toggle"
+    data-about-audio-toggle
+    aria-label="Play background music"
+    title="Play background music"
+  >
+    <i class="fas fa-play" aria-hidden="true"></i>
+  </button>
+  <audio class="about-audio-player" data-about-audio-player preload="auto" loop autoplay muted playsinline>
+    <source src="{{ '/images/gx.mp3' | relative_url }}" type="audio/mpeg">
+  </audio>
+</div>
+
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
 Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
