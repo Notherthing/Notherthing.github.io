@@ -80,7 +80,7 @@ Working on LLM infrastructure systems (e.g., distributed KV cache with GPU Direc
 Researching homomorphic encryption applications in vector databases to achieve secure and private vector data management.
 
 **2022 - 2024**  
-**Redwall TaiHe Fund Management**  
+**Redwall Taihe Fund Management**  
 *<u>Quant Development, Engineering Intern</u>*  
 Developing high-frequency trading systems for the stock market and optimizing system performance (e.g., response latency and computational efficiency).
 
