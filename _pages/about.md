@@ -24,7 +24,7 @@ redirect_from:
 
 **Email:** [ychuang@stu.ecnu.edu.cn](mailto:ychuang@stu.ecnu.edu.cn)
 
-Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborate with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
+Yuchen Huang is currently a Ph.D. candidate at the School of Data Science and Engineering, East China Normal University (ECNU). Fortunately, he is under the supervision of [Prof. Chuliang Weng](https://chuliangweng.github.io/), and collaborates with [Prof. Erci Xu](https://giorgioercixu.github.io/). He also has some industrial experience about both engineering and research from related enterprises and fields, including RedNote, ByteDance, Ant Research, HFT (i.e., high-frequency trading) and Huawei. Previously, he received his bachelor's degree from the School of Computer Science and Technology at East China Normal University in 2022.
 He would like to express his heartfelt gratitude to his family, advisors, friends, and colleagues for their support along the way.
 
 
@@ -90,4 +90,4 @@ Developing high-frequency trading systems for the stock market and optimizing sy
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 05/23/2026]
+### [Last Update: 05/29/2026]
