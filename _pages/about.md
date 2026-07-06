@@ -35,7 +35,7 @@ His research interests include the design and implementation of high-performance
 
 ## Publications {#publications}
 *** indicates corresponding author. ^ indicates equal contribution.**
-- **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*]() *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
+- **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*](https://conferences.computer.org/iscapub26/pdfs/5065-3nexm57sBmVa6MJtFTiSrb/506501a258/506501a258.pdf) *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
 
 - **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*](https://www.usenix.org/conference/osdi26/presentation/huang-yuchen) *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
 
@@ -90,4 +90,4 @@ Developing high-frequency trading systems for the stock market and optimizing sy
 Researching CPU cache-memory access, and optimizing branch prediction techniques.
 
 
-### [Last Update: 05/29/2026]
+### [Last Update: 07/06/2026]
