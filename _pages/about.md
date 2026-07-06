@@ -50,7 +50,7 @@ His research interests include the design and implementation of high-performance
 
 ## Education Background {#education-background}
 
-**2025-Present**  
+**2025-Present (2026.12 Expected)**  
 *<u>Ph.D. Candidate</u>*  
 East China Normal University, School of Data Science and Engineering.
 
