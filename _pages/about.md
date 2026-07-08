@@ -91,3 +91,10 @@ Researching CPU cache-memory access, and optimizing branch prediction techniques
 
 
 ### [Last Update: 07/06/2026]
+
+<div class="homepage-visit-counter" id="busuanzi_container_page_pv" aria-label="Homepage visit counter">
+  <i class="fas fa-eye" aria-hidden="true"></i>
+  <span>Visits</span>
+  <strong id="busuanzi_value_page_pv">--</strong>
+</div>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

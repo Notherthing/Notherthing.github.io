@@ -117,6 +117,31 @@
     pointer-events: none;
   }
 
+  .homepage-visit-counter {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 0.25rem;
+    padding: 0.35rem 0.65rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    color: var(--global-text-color-light);
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.2;
+  }
+
+  .homepage-visit-counter i,
+  .homepage-visit-counter strong {
+    color: var(--global-link-color);
+  }
+
+  .homepage-visit-counter strong {
+    min-width: 2ch;
+    font-weight: 700;
+    text-align: right;
+  }
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
