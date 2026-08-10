@@ -35,7 +35,7 @@ His research interests include the design and implementation of high-performance
 
 ## Publications {#publications}
 *** indicates corresponding author. ^ indicates equal contribution.**
-- **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*](https://www.computer.org/csdl/proceedings-article/isca/2026/506500a258) *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
+- **<u>Yuchen Huang</u>**, Baiteng Ma, Erci Xu, and Chuliang Weng\*. [*Don't Surrender to Low QPS/$: Fast and Cost-Efficient ANNS with TridentANN.*](https://ieeexplore.ieee.org/abstract/document/11617879) *<u>The 53rd International Symposium on Computer Architecture</u> (**ISCA 2026**)*, Full Paper (**CCF-A**).
 
 - **<u>Yuchen Huang</u>**, Baiteng Ma, Yiping Sun, Yang Shi, Xiao Chen, Xiaocheng Zhong, Zhiyong Wang, Yao Hu, Erci Xu\*, and Chuliang Weng. [*The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman.*](https://www.usenix.org/conference/osdi26/presentation/huang-yuchen) *<u>The 20th USENIX Symposium on Operating Systems Design and Implementation</u> (**OSDI 2026**)*, Full Paper  (**CCF-A**).
 
